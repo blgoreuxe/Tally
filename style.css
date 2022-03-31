@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+}
+
+#r {
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+
+#amount {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.footer {
+    position: fixed;
+    left: 10px;
+    bottom: 5px;
+    right: 10px;
+    margin: 0;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
